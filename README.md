@@ -3,7 +3,7 @@ for University of Bordeaux, Bachelor year 2
 
 To clone this repo, just open a terminal on your windows or linux machine and do
 
-    git clone git@github.com:fgolemo/course-2017-ocaml-trees.git
+    git clone https://github.com/fgolemo/course-2017-ocaml-trees.git
 
 (given that you have git installed)
 
