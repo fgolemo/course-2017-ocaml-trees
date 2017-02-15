@@ -1,0 +1,47 @@
+digraph G {
+"13" [color="black"]
+"13" -> "10"
+"13" -> "30"
+"10" [color="red"]
+"10" -> "4"
+"10" -> "12"
+"4" [color="black"]
+"4" -> "3"
+"4" -> "7"
+"3" [color="red"]
+"3" -> "3l"
+"3l" [style=filled, shape=box, label=""]
+"3" -> "3r"
+"3r" [style=filled, shape=box, label=""]
+"7" [color="red"]
+"7" -> "7l"
+"7l" [style=filled, shape=box, label=""]
+"7" -> "7r"
+"7r" [style=filled, shape=box, label=""]
+"12" [color="black"]
+"12" -> "12l"
+"12l" [style=filled, shape=box, label=""]
+"12" -> "12r"
+"12r" [style=filled, shape=box, label=""]
+"30" [color="red"]
+"30" -> "15"
+"30" -> "35"
+"15" [color="black"]
+"15" -> "15l"
+"15l" [style=filled, shape=box, label=""]
+"15" -> "20"
+"20" [color="red"]
+"20" -> "20l"
+"20l" [style=filled, shape=box, label=""]
+"20" -> "20r"
+"20r" [style=filled, shape=box, label=""]
+"35" [color="black"]
+"35" -> "35l"
+"35l" [style=filled, shape=box, label=""]
+"35" -> "40"
+"40" [color="red"]
+"40" -> "40l"
+"40l" [style=filled, shape=box, label=""]
+"40" -> "40r"
+"40r" [style=filled, shape=box, label=""]
+}
