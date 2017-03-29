@@ -34,6 +34,11 @@ let rec htree_read bits htree_in =
 
 let string_of_charlist charlist = String.concat "" (List.map (String.make 1) charlist);;
 
+let explode string_in =
+  let rec exp i acc =
+    if i < 0 then acc else exp (i - 1) (string_in.[i] :: acc) in
+  exp (String.length string_in - 1) [];;
+
 let () =
   (* Utils.print_list (list_of_bits biiits);; *)
   let char1, bitlist1 = htree_read (list_of_bits bitstring) example_htree in
