@@ -32,6 +32,8 @@ let rec htree_read bits htree_in =
                              (if b = 1 then a1 else a0)
   | _ -> failwith "no element";;
 
+let string_of_charlist charlist = String.concat "" (List.map (String.make 1) charlist);;
+
 let () =
   (* Utils.print_list (list_of_bits biiits);; *)
   let char1, bitlist1 = htree_read (list_of_bits bitstring) example_htree in
