@@ -1,13 +1,13 @@
 NAME        EXPECTED  ACTUAL  POINTS
             GRADE     GRADE   EX1 + EX2 + EX3 + OTHER
-Almansa     (15)      4 + 4 + 4 + 5
-Barrere     (12)      3 + 5 + 3 + 4
-Beaufort    (17)      5 + 4 + 4 + 5
-Boneau      (17)      5 + 5 + 5 + 5
-Caulonque   (11)      3 + 4 + 5 + 4
-Darfeuille  (11)      5 + 5 + 3 + 4
-Fachan      (11)      5 + 5 + 3 + 4
-Fericelli   (10)      5 + (3+1) + 4 + 4
+Almansa     (15)      17      4 + 4 + 4 + 5
+Barrere     (12)      15      3 + 5 + 3 + 4
+Beaufort    (17)      18      5 + 4 + 4 + 5
+Boneau      (17)      20      5 + 5 + 5 + 5
+Caulonque   (11)      16      3 + 4 + 5 + 4
+Darfeuille  (11)      17      5 + 5 + 3 + 4
+Fachan      (11)      17      5 + 5 + 3 + 4
+Fericelli   (10)      17      5 + (3+1) + 4 + 4
 Fouchier    (16)
 Gevers      (14)
 Griffault   (12)
