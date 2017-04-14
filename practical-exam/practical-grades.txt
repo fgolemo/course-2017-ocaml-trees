@@ -13,7 +13,7 @@ Gevers      (14)      19      3 + (5+1) + 5 + 5
 Griffault   (12)      15      5 + 5 + 1 + 4
 Kheloufi    (17)      20      5 + 5 + 5 + 5
 Lamani      (17)      20      5 + 5 + 5 + 5
-Martineau   (12)
+Martineau   (12)      15      5 + 3 + 3 + 4
 Qiu         (17)
 Tricoire    (19)
 Veschambre  (14)
