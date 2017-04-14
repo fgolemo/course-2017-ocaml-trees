@@ -9,7 +9,7 @@ Darfeuille  (11)      17      5 + 5 + 3 + 4
 Fachan      (11)      17      5 + 5 + 3 + 4
 Fericelli   (10)      17      5 + (3+1) + 4 + 4
 Fouchier    (16)      18      5 + 5 + 3 + 5
-Gevers      (14)
+Gevers      (14)      19      3 + (5+1) + 5 + 5
 Griffault   (12)
 Kheloufi    (17)
 Lamani      (17)
