@@ -16,5 +16,5 @@ Lamani      (17)      20      5 + 5 + 5 + 5
 Martineau   (12)      15      5 + 3 + 3 + 4
 Qiu         (17)      18      5 + 5 + 3 + 5
 Tricoire    (19)      20      5 + 5 + 5 + 5
-Veschambre  (14)
-Weil        (14)
+Veschambre  (14)      17      5 + 4 + 4 + 4
+Weil        (14)      
